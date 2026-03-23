@@ -1,5 +1,3 @@
-<img src="profile.png" width="200" align="right" alt="Luca Greif">
-
 # Luca Greif
 **Data Engineer & Analyst**
 
