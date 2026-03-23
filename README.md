@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Luca
+**Data Engineer & Analyst**
 
-<!--
-**LucaTimonG/LucaTimonG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build automated data pipelines, extract actionable insights, and manage cloud/server infrastructures. I am passionate about creating end-to-end solutions, from raw data extraction to self-hosted deployment.
 
-Here are some ideas to get you started:
+### 💻 Tech Stack
+* **Languages:** [ Python, SQL, R, Stata]
+* **Infrastructure:** Docker, [Terraform, Git, Google Cloud, Linux Debian Server]
+* **Data & Analytics:** PostgreSQL, Web-Scraping, [Stata, Statistical Modeling]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+
+* **Job Scraper & Telegram Bot**
+  An automated data pipeline that continuously scrapes job platforms for relevant positions. Extracted data is stored in a PostgreSQL database and triggers instant notifications to a Telegram bot.
+  
+* **Real Estate Market Scraper**
+  A custom web scraping tool designed to monitor and extract data on available rental apartments, enabling automated tracking and analysis of the housing market.
+
+* **Homelab & Self-Hosted Infrastructure**
+  I operate a private server that acts as the backbone for my automated scripts. The environment is entirely containerized using Docker and currently hosts my scraping database (`PostgreSQL`), alongside smart home and media services like `Home Assistant`, `Plex`, and `Syncthing`.
