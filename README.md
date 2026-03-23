@@ -2,7 +2,7 @@
 
 [cite_start]I am a Data Engineer and Analyst based in Konstanz, Germany[cite: 46, 49]. [cite_start]With a Master's background focusing on Statistical Modeling and Data Science, I build robust, end-to-end data pipelines and manage the infrastructure they run on. [cite_start]My work covers everything from developing complex ETL scripts and deploying cloud resources to creating advanced statistical models.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 * [cite_start]**Cloud & Infrastructure:** Google Cloud Platform (BigQuery, Cloud Functions, Cloud Run, Data Fusion) [cite_start], Terraform [cite_start], Docker [cite_start], Git (CI/CD Workflows) [cite_start], Linux (Ubuntu & Debian)
 * [cite_start]**Languages:** Python, SQL, R, Stata
