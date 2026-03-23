@@ -1,6 +1,7 @@
 <img src="profile.png" width="200" align="right" alt="Luca Greif">
 
-# Hi, I'm Luca
+# Luca Greif
+**Data Engineer & Analyst**
 
 I am a Data Engineer and Analyst based in Konstanz, Germany. With a Master's background focusing on Statistical Modeling and Data Science, I build robust, end-to-end data pipelines and manage the infrastructure they run on. My work covers everything from developing complex ETL scripts and deploying cloud resources to creating advanced statistical models.
 
